@@ -51,7 +51,7 @@
     justify-content: center;
     align-items: center;
     background-color: rgba(65, 57, 57, 0.363)
-    z-index 10px;
+    z-index: 10px;
 }
 
 .restart{
