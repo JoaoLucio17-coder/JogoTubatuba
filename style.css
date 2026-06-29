@@ -5,7 +5,7 @@
 }
 
 .game-board{
-    background-image: url(assets/imgs/background.gif);
+    background-image: url(imgs/background.gif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
